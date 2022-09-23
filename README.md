@@ -1,1 +1,1 @@
-# goit-js-hw-07
+https://zuza29.github.io/goit-js-hw-07/
